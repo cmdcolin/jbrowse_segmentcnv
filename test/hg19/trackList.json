@@ -5,7 +5,7 @@
       "storeClass": "SegmentCNV/Store/SeqFeature/Segment",
       "type": "JBrowse/View/Track/Wiggle/XYPlot",
       "max_score": 2,
-      "min_score": 0,
+      "min_score": -2,
       "label": "HOOLY_p_TCGAb_366_P04_NSP_GenomeWideSNP_6_D01_1390662.grch38.seg.v2.txt"
     }
   ]

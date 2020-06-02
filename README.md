@@ -9,6 +9,11 @@ A JBrowse plugin for plotting SEG files from GDC API or similar
 * urlTemplate - a GDC link to a .seg.txt file
 
 
+## Screenshot
+
+![](img/1.png)
+
+Figure. Wiggle track display of raw seg.txt CNV data from the GDC repository
 
 ## Installation
 
